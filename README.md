@@ -6,4 +6,6 @@ of the tournament. This code applies the metaheuristic Biased
 Random-Key Genetic Algorithm associated with the Polygon Method in ordeer to solve the mTTP. VND and Simulated Annealing are also implemented.
 This code runs the two main sets of instances from the literature (CIRC and NL) avaliable on http://mat.tepper.cmu.edu/TOURN/ .
 
+Article published: https://proceedings.science/sbpo/papers/algoritmo-genetico-aplicado-a-otimizacao-do-planejamento-de-torneios-esportivos 
+
 BRKGA-API: https://github.com/rfrancotoso/brkgaAPI 
